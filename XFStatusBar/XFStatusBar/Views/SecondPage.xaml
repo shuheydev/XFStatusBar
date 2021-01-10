@@ -9,10 +9,58 @@
     NavigationPage.HasNavigationBar="False"
     mc:Ignorable="d">
     <ContentPage.Content>
-        <StackLayout>
-            <Frame BackgroundColor="Pink">
-                <Label Text="Frameだよ" />
-            </Frame>
-        </StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+                <Frame BackgroundColor="Pink">
+                    <Label Text="Frameだよ" />
+                </Frame>
+
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
